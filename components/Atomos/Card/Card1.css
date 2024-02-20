@@ -1,0 +1,54 @@
+
+.paginaPaquetes{
+    margin-top: 80px;
+    margin-bottom: 45px;
+    }
+    
+    
+    .divPaquetes{
+        height: auto;
+        width: 100%;
+        justify-content:space-evenly;
+        display: flex;
+        flex-direction: row;
+        margin-top: 20px;
+    }
+    
+    .imgPaquete {
+        border-radius: 20px; /* Ajusta el valor según tu preferencia */
+        overflow: hidden; /* Esto asegura que la imagen no sobresalga del borde redondeado */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Agregando sombra para resaltar */
+        display: flex;
+       
+    }
+    
+    .divPaquete{
+    
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 25px;
+    }
+    
+    .tituloPaquete{
+        display: flex;
+        flex-direction: column;
+    height: auto;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    
+    }
+    .tituloPaquete h2 span {
+        font-weight: 700;
+    }
+    
+    .tituloPaquete h2 {
+        font-size: 27px;
+        font-family: Gotham, -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+        /* Otros estilos para el h2 en general */
+    }
+    
+    
+    
+    

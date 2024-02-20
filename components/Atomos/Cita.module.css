@@ -1,0 +1,17 @@
+.divButton{
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 3.25rem;
+height: 50px;
+width: 200px;
+background-color: #499caa;
+cursor: pointer;
+}
+
+.p{
+font-size: .8125rem;
+margin-left: 0.5rem;
+text-decoration: underline;
+}

@@ -1,0 +1,29 @@
+.divPaquete{
+    text-align: center;
+    color: #458795;
+
+}
+
+.divPaquete h3 span{
+    font-weight: 800;
+
+
+}
+
+.titleLentes{
+    font-size: 18px;
+    font-weight: 300;
+    color: #3a3a3a;
+    line-height: normal;
+    letter-spacing: normal;
+
+}
+
+.titleLentes span{
+    font-size: 18px;
+    font-weight: 800;
+    color: black;
+    line-height: normal;
+    letter-spacing: normal;
+
+}

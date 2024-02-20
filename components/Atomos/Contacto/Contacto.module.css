@@ -1,0 +1,135 @@
+.PaginaCarouselLentes {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
+
+.divCarouselIzquierdo {
+    display: flex;
+    height: auto;
+    min-width: 42%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 11%;
+    line-height: normal;
+    border-radius: 25px;
+}
+
+.divCarouselDerecho {
+    display: flex;
+    height: auto;
+    width: 40%;
+    margin-left: 5%;
+}
+
+
+/* CarouselLentes.css */
+
+  .carousel_container2 {
+    max-width: 100%;
+  }
+  
+  .slide2 {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 22px;
+    width: 100%;
+  }
+  
+  .slide2 img {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    margin-left: 20%;
+
+  }
+  
+  .slide2 h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+    text-align: center;
+    font-family: Avenir-Light;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 900;
+    text-align: center;
+    color: #888;
+    text-transform: uppercase;
+  }
+  
+  .pDemas {
+    
+    margin-bottom: 15px;
+    text-align: center;
+    height: 54px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    font-family: Avenir-Light,sans-serif;
+    color: #454545!important;
+    text-transform: none;
+
+
+  }
+
+  .pPrecio{
+    font-size: 20px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    font-family: Avenir-Heavy;
+    line-height: .81;
+    letter-spacing: 3.4px;
+    color: #00a2b0;
+    padding-right: 0.25rem;
+
+  }
+
+  .btncarrucelLentes{
+
+color: white;
+background-color: #00A2B0;
+height: 43px;
+margin: 21px 0 20px;
+padding: 9px 5px 8px;
+border-radius: 8px;
+border-color: #00a2b0;
+background-color: #00a2b0;
+font-size: 12px;
+letter-spacing: .67px;
+color: #fff;
+margin-left: 36%;
+
+  }
+
+  
+  .tituloPaquete{
+    display: flex;
+    flex-direction: column;
+height: auto;
+width: 100%;
+justify-content: center;
+text-align: center;
+
+}
+.tituloPaquete h2 span {
+    font-weight: 700;
+}
+
+.tituloPaquete h2 {
+    font-size: 27px;
+    font-family: Gotham, -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+    /* Otros estilos para el h2 en general */
+}

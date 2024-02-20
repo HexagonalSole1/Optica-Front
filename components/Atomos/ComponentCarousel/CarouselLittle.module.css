@@ -1,0 +1,21 @@
+.carouselWrapper {
+    position: relative;
+    width: 70%;
+    margin: auto;
+    cursor: pointer;
+    border-radius: 3.25rem; /* This will give you rounded corners */
+    overflow: hidden; /* This ensures that the images also get rounded corners */
+    margin-top: 45px;
+  }
+  
+  .slide {
+    position: relative;
+  }
+  
+  .image {
+    width: 100%;
+    object-fit: contain;
+  }
+ 
+  
+  

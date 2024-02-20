@@ -1,0 +1,35 @@
+/* Carousel.css */
+
+.carousel-container {
+    width: 100%;
+    
+  }
+  
+  .slide {
+    min-height: 20px;
+    padding-top: 7px;
+    justify-content: center;
+    height: auto;
+    margin-top: 3px;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    background-color: #ECF2F6;
+    text-align: center;
+    color: #1f1e1e;
+    font-size: 14px;
+    border-radius: 8px; /* Bordes redondeados */
+  }
+  
+  .slick-prev,
+  .slick-next {
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+  }
+  
+  .slick-prev:hover,
+  .slick-next:hover {
+    color: #f10000;
+  }
+  

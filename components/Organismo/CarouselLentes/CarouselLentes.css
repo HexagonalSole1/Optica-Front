@@ -1,0 +1,150 @@
+.PaginaCarouselLentes {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+
+}
+
+.divCarouselIzquierdo {
+
+    height: auto;
+    min-width: 29%;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align:justify;
+    padding-left: 11%;
+    font-weight: 300;
+    color: #3a3a3a;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+.divCarouselIzquierdo p {
+
+    font-size: 20px;
+    font-weight: 300;
+    color: #3a3a3a;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+.divCarouselIzquierdo h2 {
+
+    font-size: 32px;
+    font-weight: 800;
+    color: #3a3a3a;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+.divCarouselIzquierdo a {
+
+    font-size: 20px;
+    font-weight: 200;
+    color: #3a3a3a;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+
+.divCarouselDerecho {
+    display: flex;
+
+    height: auto;
+    width: 67%;
+    min-width: 50%;
+
+}
+
+
+/* CarouselLentes.css */
+
+  .carousel-container2 {
+    width: 80%;
+  }
+  
+  .slide2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+
+  }
+  
+  .slide2 img {
+    max-width: 100%;
+    height: 100px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    margin-left: 15%;
+
+  }
+  
+  .slide2 h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+    text-align: center;
+    font-family: Avenir-Light;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 900;
+    text-align: center;
+    color: #888;
+    text-transform: uppercase;
+  }
+  
+  .pDemas {
+    
+    margin-bottom: 15px;
+    text-align: center;
+    height: 54px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    font-family: Avenir-Light,sans-serif;
+    color: #454545!important;
+    text-transform: none;
+
+
+  }
+
+  .pPrecio{
+    font-size: 20px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    font-family: Avenir-Heavy;
+    line-height: .81;
+    letter-spacing: 3.4px;
+    color: #00a2b0;
+    padding-right: 0.25rem;
+
+  }
+
+  .btncarrucelLentes{
+
+color: white;
+background-color: #00A2B0;
+height: 43px;
+margin: 21px 0 20px;
+padding: 9px 5px 8px;
+border-radius: 8px;
+border-color: #00a2b0;
+background-color: #00a2b0;
+font-size: 12px;
+letter-spacing: .67px;
+color: #fff;
+margin-left: 36%;
+
+  }
+
+  

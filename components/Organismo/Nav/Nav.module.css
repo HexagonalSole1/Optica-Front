@@ -1,0 +1,55 @@
+.DivNav {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 90px;
+  opacity: 75%;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+
+}
+
+.DivCita{
+display: flex;
+justify-content: center;
+width: 20%;
+}
+
+.DivLogo{
+  display: flex;
+  width: 55%;
+  justify-content: center;
+  margin-left: 5%;
+}
+
+.DivIconos{
+  display: flex;
+  justify-content: space-around;
+  width: 25%;
+}
+
+.Iconos{ 
+cursor: pointer;
+display: flex;
+width: 40%;
+justify-content: space-between;
+}
+
+.NavSec{
+  width: 100%;
+  min-height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+
+.NavSec p {
+  font-size: 13px;
+  text-transform: uppercase;
+  color: #000;
+}
+
+

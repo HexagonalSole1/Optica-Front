@@ -1,0 +1,90 @@
+.PaginaCarouselLentes3 {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+
+}
+
+.divCarouselIzquierdo3 {
+
+    height: auto;
+    min-width: 29%;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align:justify;
+    padding-left: 11%;
+    font-weight: 300;
+    color: #3a3a3a;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+.divCarouselIzquierdo3 p {
+
+    font-size: 20px;
+    font-weight: 300;
+    color: #3a3a3a;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+.divCarouselIzquierdo3 h2 {
+
+    font-size: 32px;
+    font-weight: 800;
+    color: #3a3a3a;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+.divCarouselIzquierdo3 a {
+
+    font-size: 20px;
+    font-weight: 200;
+    color: #3a3a3a;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+
+.divCarouselDerecho3 {
+    display: flex;
+
+    height: auto;
+    width: 67%;
+    min-width: 50%;
+
+}
+
+
+/* CarouselLentes.css */
+
+  .carousel-container3 {
+    width: 80%;
+    
+  }
+  
+  .slide3 {
+    
+    padding: 20px;
+    width: 100%;
+
+  }
+  
+  .slide3 img {
+    max-width: 100%;
+    height: 250px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    margin-left: 15%;
+
+  }
+  
+  
+  
+  
+  
